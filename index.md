@@ -1,1 +1,1 @@
-!Image(images/neuro4.jpg)
+![](images/neuro4.jpg)
