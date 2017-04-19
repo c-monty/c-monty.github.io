@@ -1,1 +1,1 @@
-!Image(images/neuro4)
+!Image(images/neuro4.jpg)
