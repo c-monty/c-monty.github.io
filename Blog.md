@@ -1,6 +1,6 @@
 ## The Digital Humanities Is Not So White
 
-Digital humanities is a movement which one must self identify with. It is a new way of looking at an old tool. It emerged as a new way to 
+  Digital humanities is a movement which one must self identify with. It is a new way of looking at an old tool. It emerged as a new way to 
 join a conversation in the academic field. Unfortunately this has lead to people who do not have any wish to participate in the digital 
 humanities, complain about what digital humanities is and what it should be. In an article by Tara McPhearson, she raises light of a 
 problem that she believes is central to everything. Race. Unfortunately for her, entering a new academic field and demanding it accommodate 
