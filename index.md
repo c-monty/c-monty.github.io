@@ -9,13 +9,10 @@ My name is Christian Montanari and I am in my third year at Brock, second year i
 
 ## Featured Project
 
-This project is targetted at the pop culture surrounding the internet before it had fully come to fruition. Based on the "cyberpunk" genre of science fiction books, this idea of cyberspace predates the internet by quite a bit. Altough cyberspace was much different than the internet today, they both described a network of computers all communicating with each other on a massive scale. More importantly, the dark worlds offered a realistic expectation of how skillful hackers would abuse such an expansive system. Unlike most people, my research consisted of reading fiction rather than a wikipedia page. I began by re-reading Gibson's "Sprawl series" and noting points of interest where we can observe the similarities between the two technologies. I think it is important to 'play' with the notion of what is possible in fiction because it inspires future generations. 
-
-![](images/cyber.jpg)
-
 
 
 ## Research Presentation 
+
 
 ## Academic Blog
 
