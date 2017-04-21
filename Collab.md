@@ -1,4 +1,4 @@
-[](images/neatline.jpg)
+![](images/neatline.jpg)
 
 Our project was on neatline. It is a robust mapping tool used for creating interactive exhibits. We researched what was possible with neatline 
 along with a failed attempt to create our own interactive exhibit. This failed in part because the "free" method was much more difficult as 
@@ -23,7 +23,7 @@ she was able to give us a starting point for future reference.
 ![](images/sandpits.jpg)
 This is the waypoint that would have been used as this is where the aliens first touch down.
 
-![](images/woking.jpg)
+![](images/woking.JPG)
 This is the second waypoint located at Woking.
 
 
