@@ -12,8 +12,9 @@ My name is Christian Montanari and I am in my third year at Brock, second year i
 
 
 ## Research Presentation 
-["reveal"](reveal/cyberspace-slides.html)
+["CyberSpace"](reveal/index.html)
 
 ## Academic Blog
+["The Digital Humanities Are Not 'So White'"](Blog.md)
 
 ## Collaborative Project
