@@ -1,3 +1,5 @@
+## The Digital Humanities Is Not So White
+
 Digital humanities is a movement which one must self identify with. It is a new way of looking at an old tool. It emerged as a new way to 
 join a conversation in the academic field. Unfortunately this has lead to people who do not have any wish to participate in the digital 
 humanities, complain about what digital humanities is and what it should be. In an article by Tara McPhearson, she raises light of a 
@@ -40,7 +42,7 @@ around. The digital humanities is an open forum for anyone who wishes to contrib
 older media and building their own representation. The sheer coincidence of its origins (or even the sheer coincidence of the colour of 
 the people specifically at that one talk,) does not somehow reduce how inclusive it is.
 
-###Work Cited
+### Work Cited
 
 1. McPhearson, Tara. "Debates in the Digital Humanities." Debates in the Digital Humanities. N.p., n.d. Web. 10 Mar. 2017.
 2. Kirshenbaum, Matthew. "Debates in the Digital Humanities." Debates in the Digital Humanities. N.p., n.d. Web. 10 Mar. 2017.
